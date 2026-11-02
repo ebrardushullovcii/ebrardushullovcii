@@ -8,14 +8,11 @@ I started in technical support, became a .NET developer in 2019, ran customer ex
 
 ## Projects
 
-**[ClipVault](https://github.com/ebrardushullovcii/ClipVault)**: game clipping for Windows. It keeps a rolling buffer while you play. Press a hotkey and the last couple of minutes are saved as an MP4, with game and microphone audio on separate tracks, ready to trim and export. The capture backend is C++ on libobs, with NVENC encoding and an x264 fallback. The editor is Electron and React. Ships as installer and portable builds.
-[Website](https://getclipvault.netlify.app) · [Download](https://github.com/ebrardushullovcii/ClipVault/releases/latest)
+**[ClipVault](https://github.com/ebrardushullovcii/ClipVault)**: game clipping for Windows. It keeps a rolling buffer while you play. Press a hotkey and the last couple of minutes are saved as an MP4, with game and microphone audio on separate tracks, ready to trim and export. The capture backend is C++ on libobs, with NVENC encoding and an x264 fallback. The editor is Electron and React. Ships as installer and portable builds.\n[Website](https://getclipvault.netlify.app) · [Download](https://github.com/ebrardushullovcii/ClipVault/releases/latest)
 
-**[ShowTracker](https://github.com/ebrardushullovcii/ShowTracker)**: a TV, anime and movie tracker with episode progress, a watchlist, a release schedule, custom lists, TV Time import and watch stats. One Expo and React Native codebase with a Convex backend. Data from TMDB, TVMaze, AniList and Jikan is merged into one model. Live on the web.
-[Open the app](https://showtrackerapp.netlify.app)
+**[ShowTracker](https://github.com/ebrardushullovcii/ShowTracker)**: a TV, anime and movie tracker with episode progress, a watchlist, a release schedule, custom lists, TV Time import and watch stats. One Expo and React Native codebase with a Convex backend. Data from TMDB, TVMaze, AniList and Jikan is merged into one model. Live on the web.\n[Open the app](https://showtrackerapp.netlify.app)
 
-**[Nestor](https://github.com/ebrardushullovcii/Nestor)** (in development): a local-first desktop app for job search. It searches the job sites you choose in its own browser, shows how well each job fits and why, tailors a resume for each job and fills in applications. You decide what gets sent. Electron, React and TypeScript in a pnpm and Turborepo monorepo, with Playwright browser automation, SQLite storage and AI evaluation tests.
-[Website](https://trynestor.netlify.app)
+**[Nestor](https://github.com/ebrardushullovcii/Nestor)** (in development): a local-first desktop app for job search. It searches the job sites you choose in its own browser, shows how well each job fits and why, tailors a resume for each job and fills in applications. You decide what gets sent. Electron, React and TypeScript in a pnpm and Turborepo monorepo, with Playwright browser automation, SQLite storage and AI evaluation tests.\n[Website](https://trynestor.netlify.app)
 
 Also public: the source of [my website](https://github.com/ebrardushullovcii/Personal-Website), and [Arcane Survivors](https://github.com/ebrardushullovcii/RogueLike), a small browser game in Phaser 3.
 
