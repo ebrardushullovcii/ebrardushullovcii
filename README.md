@@ -4,7 +4,7 @@ I've worked on production software since 2019: restaurant ordering and kitchen-d
 
 Based in Prishtina, Kosovo (CET/CEST).
 
-[Website](https://ebrar-dushullovci.netlify.app) · [Resume (PDF)](https://ebrar-dushullovci.netlify.app/assets/resume/Ebrar-Dushullovci-Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/ebrar-dushullovci-5b98b420b/) · [Email](mailto:ebrar.dushullovci@gmail.com)
+[Website](https://ebrar-dushullovci.netlify.app) · [Resume (PDF)](https://ebrar-dushullovci.netlify.app/assets/resume/Ebrar-Dushullovci-Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/ebrar-dushullovci/) · [Email](mailto:ebrar.dushullovci@gmail.com)
 
 ## Projects
 
