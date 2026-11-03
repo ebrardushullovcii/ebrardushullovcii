@@ -24,5 +24,5 @@ Also: **[Arcane Survivors](https://github.com/ebrardushullovcii/RogueLike)**, a 
 I started in technical support, moved into .NET development, led customer experience and QA, and returned to hands-on engineering. Most of my professional work is in private repositories.
 
 - **AutomatedPros** — Senior Full-Stack Software Engineer, since Jul 2023. Work on [Orderific](https://orderific.com), a restaurant ordering and kitchen-display platform, plus QA automation and self-hosted AI tooling. Previously Chief Experience Officer (customer experience and QA lead), Nov 2021 – Jul 2023.
-- **Infotech L.L.C** — .NET Developer, Aug 2019 – Jan 2022; .NET consulting from Jan 2022. Desktop business-management systems for shops, restaurants, repair garages and fuel stations.
-- **CREA-KO** — .NET Developer, Jan – Jul 2019. Part of the team migrating a web ERP from .NET Framework to .NET Core MVC.
+- **Infotech L.L.C** — .NET Developer, Aug 2019 – Jan 2022; .NET Consultant (part-time), Jan 2022 – Aug 2026. Desktop business-management systems for shops, restaurants, repair garages and fuel stations.
+- **CREA-KO** — Junior .NET Developer, Jan – Jul 2019. Part of the team migrating a web ERP from .NET Framework to .NET Core MVC.
